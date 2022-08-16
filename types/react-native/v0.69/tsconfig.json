@@ -8,16 +8,16 @@
             ],
             "react-native/*": [
                 "react-native/v0.69/*"
-            ],
+            ]
         },
         "noImplicitAny": true,
         "noImplicitThis": true,
         "strictNullChecks": true,
         "strictFunctionTypes": true,
-        "baseUrl": "../",
+        "baseUrl": "../../",
         "jsx": "react",
         "typeRoots": [
-            "../"
+            "../../"
         ],
         "types": [],
         "noEmit": true,
